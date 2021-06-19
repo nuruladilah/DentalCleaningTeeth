@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <attribute_groups />
+      <color>#cc0c35</color>
+      <id>1</id>
+      <name>Lateral Incisor</name>
+      <opened>true</opened>
+   </element>
+   <element>
+      <attribute_groups />
+      <color>#bb30cc</color>
+      <id>2</id>
+      <name>Central Incisor</name>
+      <opened>true</opened>
+   </element>
+</root>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <attribute_groups />
+      <color>#ed922b</color>
+      <id>1</id>
+      <name>Central Incisor</name>
+      <opened>true</opened>
+   </element>
+   <element>
+      <attribute_groups />
+      <color>#e63e83</color>
+      <id>2</id>
+      <name>Lateral Incisor</name>
+      <opened>true</opened>
+   </element>
+   <element>
+      <attribute_groups />
+      <color>#97eb39</color>
+      <id>3</id>
+      <name>Canine</name>
+      <opened>true</opened>
+   </element>
+   <element>
+      <attribute_groups />
+      <color>#3b6de3</color>
+      <id>4</id>
+      <name>1st Premolar</name>
+      <opened>true</opened>
+   </element>
+   <element>
+      <attribute_groups />
+      <color>#ce2df3</color>
+      <id>5</id>
+      <name>2nd Premolar</name>
+      <opened>true</opened>
+   </element>
+   <element>
+      <attribute_groups />
+      <color>#e70f0f</color>
+      <id>6</id>
+      <name>1st Molar</name>
+      <opened>true</opened>
+   </element>
+</root>
