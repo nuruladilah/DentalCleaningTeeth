@@ -42,11 +42,4 @@
       <name>1st Molar</name>
       <opened>true</opened>
    </element>
-   <element>
-      <attribute_groups />
-      <color>#cfb8ec</color>
-      <id>7</id>
-      <name>2nd Molar</name>
-      <opened>true</opened>
-   </element>
 </root>
